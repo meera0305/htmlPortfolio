@@ -63,9 +63,16 @@ You can use this project as a **template** for your own portfolio and customize 
 ---
 
 ## 🖼️ Screenshots
+![Home Page Screenshot](assets/screenshot-home.png)  
+*Home Page Overview*
+
+
+
+
 
 
 ## 🧑‍🏫 How to Run
 
 1. Clone the repository  
 ```bash
+
