@@ -49,7 +49,7 @@ You can use this project as a **template** for your own portfolio and customize 
 - 🎨 Eye-catching design with smooth scrolling
 - 🔍 SEO-ready markup (basic)
 - ☁️ Easily deployable on GitHub Pages or Netlify
-
+-----
 ---
 
 ## 💻 Technologies Used
